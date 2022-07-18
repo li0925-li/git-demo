@@ -12,6 +12,5 @@ hello at hello git!
 hello at hello git!
 hello at hello git!
 hello at hello git!
-<<<<<<< HEAD
 hello at hello git! master test
 hello at hello git! hot fix-fix text
